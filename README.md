@@ -20,10 +20,10 @@
 
 <!-- 4. 数据统计卡片 (备用接口) -->
 <p align="center">
-  <img src="https://helio-github-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=dark&hide_border=true" alt="Stats">
+  <img src="https://helio-github-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=default&hide_border=true" alt="Stats">
 </p>
 
 <!-- 5. 语言占比卡片 (备用接口) -->
 <p align="center">
-  <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
+  <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=default&hide_border=true" alt="Top Langs">
 </p>
