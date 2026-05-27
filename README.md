@@ -18,12 +18,12 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </p>
 
-<!-- 4. 数据统计卡片 (使用 github-readme-stats) -->
+<!-- 4. 数据统计卡片 (备用接口) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=dark&hide_border=true" alt="Stats">
+  <img src="https://helio-github-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=dark&hide_border=true" alt="Stats">
 </p>
 
-<!-- 5. 语言占比卡片 -->
+<!-- 5. 语言占比卡片 (备用接口) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
+  <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
 </p>
