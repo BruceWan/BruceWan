@@ -12,14 +12,6 @@
 
 ---
 
-### 👨‍💻 About Me | 关于我
-<p align="center">
-热爱编程、持续学习，乐于分享代码与技术 🚀<br>
-专注后端 & 桌面开发，享受敲代码的每一刻
-</p>
-
----
-
 ### 🛠 Tech Stack | 技术栈
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
@@ -37,15 +29,13 @@
   <img src="https://helio-github-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=default&hide_border=true" alt="Stats">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceWan&theme=tokyonight&hide_border=true" alt="Streak Stats">
+</p>
+
 <br>
 
 ### 📈 Top Languages | 常用语言
 <p align="center">
-  <img src="httpshelio-github-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=default&hide_border=true" alt="Top Langs">
-</p>
-
----
-
-<p align="center">
-✨ Keep coding, keep progressing ✨
+  <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=default&hide_border=true" alt="Top Langs">
 </p>
