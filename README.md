@@ -8,13 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+BruceWan!;Welcome+to+my+GitHub+Profile;I+love+coding!"/>
 </p>
 
-<!-- 3. 技术栈徽章 (使用 shields.io) -->
+<!-- 3. 技术栈徽章 (已更新：NodeJS, JS, C#, Java, C++, HTML) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </p>
 
 <!-- 4. 数据统计卡片 (使用 github-readme-stats) -->
