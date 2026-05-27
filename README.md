@@ -24,11 +24,14 @@
 
 ### 📊 GitHub Stats | 数据统计
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=default&hide_border=true&height=180" alt="Stats">&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceWan&theme=default&hide_border=true&height=180" alt="Streak Stats">
+  <img src="https://helio-github-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=default&hide_border=true" alt="Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceWan&theme=default&hide_border=true" alt="Streak Stats">
 </p>
 
 ### 📈 Top Languages | 常用语言
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=default&hide_border=true&height=160" alt="Top Langs">
+  <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=default&hide_border=true" alt="Top Langs">
 </p>
