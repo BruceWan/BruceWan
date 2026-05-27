@@ -1,26 +1,28 @@
-<!--
-**brucewan/brucewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 1. 波浪横幅 (使用 capsule-render) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BruceWan's%20GitHub&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=51&descAlign=62"/>
+</p>
 
-Here are some ideas to get you started:
+<!-- 2. 打字机效果 (使用 readme-typing-svg) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+BruceWan!;Welcome+to+my+GitHub+Profile;I+love+coding!"/>
+</p>
 
-- ? I’m currently working on ...
-- ? I’m currently learning ...
-- ? I’m looking to collaborate on ...
-- ? I’m looking for help with ...
-- ? Ask me about ...
-- ? How to reach me: ...
-- ? Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 3. 技术栈徽章 (使用 shields.io) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
+<!-- 4. 数据统计卡片 (使用 github-readme-stats) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=dark&hide_border=true" alt="Stats">
+</p>
 
-### ?你好，欢迎 ?
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=brucewan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-- ? I’m currently working on [blog](https://kunnan.blog.csdn.net)
-- ? I’m currently learning [LLVM](https://llvm.org)
-- ? I’m currently learning [Swift](https://swift.org)
-- ? I’m currently learning [frida.re](https://frida.re)
-- ? How to reach me: [About](https://www.cnblogs.com/BruceWan)
+<!-- 5. 语言占比卡片 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
+</p>
