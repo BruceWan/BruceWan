@@ -1,6 +1,6 @@
 <!-- 顶部波浪横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BruceWan's%20GitHub&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BruceWan's%20GitHub&fontSize=80&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
 </p>
 
 <br>
