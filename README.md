@@ -35,3 +35,13 @@
 <p align="center">
   <img src="https://helio-github-stats.vercel.app/api/top-langs/?username=BruceWan&layout=compact&theme=default&hide_border=true" alt="Top Langs">
 </p>
+
+
+<!-- snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tomatoyuan/tomatoyuan/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tomatoyuan/tomatoyuan/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</p>
