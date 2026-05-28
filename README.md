@@ -40,8 +40,12 @@
 ### ⛳️ Record | 记录
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tomatoyuan/tomatoyuan/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tomatoyuan/tomatoyuan/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BruceWan/BruceWan/blob/main/image/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/BruceWan/BruceWan/blob/main/image/github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://github.com/BruceWan/BruceWan/blob/main/image/icon.png" alt="Icon">
 </p>
