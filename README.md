@@ -39,6 +39,10 @@
 
 ### ⛳️ Record | 记录
 <p align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BruceWan&bg_color=ffffff&color=000000&line=d3e6fa&point=3f99ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BruceWan/BruceWan/blob/main/image/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/BruceWan/BruceWan/blob/main/image/github-snake.svg" />
