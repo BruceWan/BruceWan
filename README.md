@@ -28,9 +28,9 @@
   <img src="https://helio-github-stats.vercel.app/api?username=BruceWan&show_icons=true&theme=default&hide_border=true" alt="Stats">
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BruceWan&theme=default&hide_border=true" alt="Streak Stats">
-</p> -->
+</p>
 
 ### 📈 Top Languages | 常用语言
 <p align="center">
